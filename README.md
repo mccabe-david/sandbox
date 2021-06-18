@@ -50,7 +50,7 @@ Make sure the docker daemon is running and docker-compose is installed.
 
 Open a terminal and run:
 ```
-git clone https://github.com/algorand/sandbox.git
+git clone https://github.com/mccabe-david/sandbox.git
 cd sandbox
 ./sandbox up
 ```
